@@ -34,6 +34,7 @@ test("search for multiple cars",async() =>{
     //split the search result
     let resultArray = result?.split(" ")
     //print out only the search result number
+    //new commit 090624
     console.log("Search result number is " + resultArray)
     }//end of for loop
     

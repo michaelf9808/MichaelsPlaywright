@@ -1,1 +1,1 @@
-Playwright automation project with web automation test cases, testing basic functionalities through multiple browsers
+Playwright project with web automation test cases for basic functionalities in multiple browsers

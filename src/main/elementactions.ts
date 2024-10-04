@@ -39,6 +39,7 @@ export async function navigate(page:Page, url:string) {
 }
 
 //create a method to press enter on a search field
+//create a bunghole
 export async function keyboardEnter(page:Page) {
     await allure.step("Pressing Enter on a page", async() => {
         await page.waitForTimeout(1000)
